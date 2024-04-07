@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **age and gender classification model**
 
-- 🌱 I’m currently learning **tensorflow,**
+- 🌱 I’m currently learning **tensorflow,**<b>and different machine learning frameworks</b>
 
 - 📫 How to reach me **aaravvaish2004@gmail.com**
 

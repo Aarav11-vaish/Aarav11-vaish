@@ -1,7 +1,3 @@
----
-title: Aarav Vaish
-
----
 
 
 <!-- Greeting -->

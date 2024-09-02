@@ -24,8 +24,8 @@ My name is Aarav Vaish!Second-year computer science student. Passionate about ma
 
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web:computer: Development(HTML,CSS,bootstrap,javascript)
-* Learning some frameworks:art: Flask,tensorflow,Scikit-learn
-* Looking forward to take a NLP ,LLM , GenerativeAI:calling: course in future.
+* Learning some frameworks:art: Flask,Scikit-learn, ReactJS
+* Looking forward to make some projects that could be useful in real-world.
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:

@@ -4,7 +4,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-My name is Aarav Vaish!Second-year computer science student. Passionate about machine learning, I am actively building expertise in data structures and have a keen interest in web development. Eager to contribute my skills to innovative projects.:pray:.
+My name is Aarav Vaish!third-year computer science student. Passionate about machine learning, I am actively building expertise in data structures and have a keen interest in web development. Eager to contribute my skills to innovative projects.:pray:.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 

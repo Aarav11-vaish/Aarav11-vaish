@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 3rd-year Computer Science student passionate about building full-stack applications, exploring backend systems, and working on real-world tech problems. My current interests include web development, system design, and solving DSA problems. I enjoy contributing to open-source projects and am always eager to learn and experiment with new technologies.<br>Tech Stack: JavaScript | Node.js | Express | React | MongoDB | C++ | Python  <br>📫 Reach me: vaishaarav@gmail.com
+I'm a 3rd-year Computer Science student passionate about building full-stack applications, exploring backend systems, and working on real-world tech problems. My current interests include web development, system design, and solving DSA problems. I enjoy contributing to open-source projects and am always eager to learn and experiment with new technologies.<br>Tech Stack: JavaScript | Node.js | Express | React | MongoDB | C++ | Python  <br>📫 Reach me: aaravvaish2004@gmail.com
 
 
 ## 🌐 Socials:

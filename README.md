@@ -11,7 +11,7 @@ I'm a final year **Computer Science Engineering** student at **Chandigarh Univer
 
 ## 🛠️ Tech Stack
 ### Programming Languages  
-  <img src="https://skillicons.dev/icons?i=cpp,js,sql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,mysql" />
 
 ### Frontend Development  
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />

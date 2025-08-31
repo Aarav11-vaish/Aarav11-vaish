@@ -10,72 +10,24 @@ I'm a final year **Computer Science Engineering** student at **Chandigarh Univer
 - 📫 How to reach me: **aaravvaish2004@gmail.com**
 
 ## 🛠️ Tech Stack
+### Programming Languages  
+  <img src="https://skillicons.dev/icons?i=cpp,js,sql" />
 
-### Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Frontend Development  
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Backend Development  
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### Databases  
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Tools & Technologies  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-## 🏆 Featured Projects
-
-### 🎨 Real-Time Chat Application with Whiteboard
-A full-stack chat application featuring real-time messaging and collaborative whiteboard for interactive teaching and virtual interviews.
-
-**Tech Stack:** Node.js, Express.js, MongoDB, React.js, Socket.IO, JWT, Nodemailer, Zustand, WebRTC
-
-**Key Features:**
-- Real-time messaging using Socket.IO
-- Collaborative whiteboard for interactive sessions
-- Secure authentication with JWT
-- Email verification system
-- State management with Zustand
-
-[🔗 GitHub Repository](https://github.com/AaravVaish)
-
-### ☁️ Edu-Cloud Project
-A collaborative platform for students and educators to access educational resources across various categories.
-
-**Tech Stack:** HTML, CSS, Vanilla JavaScript, MongoDB
-
-**Key Features:**
-- User authentication system
-- Intuitive interface for resource management
-- Easy navigation and categorization
-
-[🔗 GitHub Repository](https://github.com/AaravVaish)
-
-### ♟️ Multiplayer Chess Game
-A real-time multiplayer chess game with Google OAuth authentication.
-
-**Tech Stack:** React.js, JavaScript, Tailwind CSS, MongoDB, WebSockets
-
-**Key Features:**
-- Real-time gameplay using WebSockets
-- Google OAuth integration
-- Responsive and intuitive UI
-- User data persistence with MongoDB
-
-[🔗 GitHub Repository](https://github.com/AaravVaish)
 
 ## 🎯 Competitive Programming
 

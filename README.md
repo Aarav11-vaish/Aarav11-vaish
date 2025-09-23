@@ -35,7 +35,7 @@ I'm passionate about problem-solving and have been actively coding on various pl
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/AaravVaish)
 - **900+ Problems Solved**
-- **Peak Rating: 1830**
+- **Peak Rating: 1890(Knight)**
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/AaravVaish)
 - **200+ Problems Solved**
